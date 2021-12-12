@@ -7,7 +7,7 @@ $acquaintance = 'First, let\'s get acquainted'
 ?>
 
 <?php
-$learning = 'Now, let\'s learning!'
+$learning = 'Now, let\'s start learning!'
 ?>
 
 
